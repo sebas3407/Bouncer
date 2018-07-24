@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: e6837f40ce37f924bbad768ebdf7e8e7
+timeCreated: 1491313688
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: malo2_animacion_0
+    21300002: malo2_animacion_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: malo2_animacion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1115
+        height: 1710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 302, y: -785}
+        - {x: 446, y: -785}
+        - {x: 446, y: -583}
+        - {x: 497, y: -583}
+        - {x: 500, y: -582}
+        - {x: 501, y: -583}
+        - {x: 509, y: -582}
+        - {x: 510, y: -583}
+        - {x: 512, y: -583}
+        - {x: 512, y: 36}
+        - {x: 509, y: 37}
+        - {x: 446, y: 37}
+        - {x: 446, y: 103}
+        - {x: 444, y: 105}
+        - {x: 310, y: 105}
+        - {x: 310, y: 715}
+        - {x: 308, y: 717}
+        - {x: 307, y: 717}
+        - {x: 305, y: 719}
+        - {x: 302, y: 719}
+        - {x: 301, y: 720}
+        - {x: 243, y: 720}
+        - {x: 243, y: 785}
+        - {x: -309, y: 785}
+        - {x: -309, y: 783}
+        - {x: -310, y: 782}
+        - {x: -310, y: 771}
+        - {x: -311, y: 770}
+        - {x: -311, y: 751}
+        - {x: -310, y: 750}
+        - {x: -310, y: 735}
+        - {x: -311, y: 734}
+        - {x: -311, y: 719}
+        - {x: -444, y: 719}
+        - {x: -446, y: 717}
+        - {x: -446, y: 648}
+        - {x: -444, y: 646}
+        - {x: -379, y: 646}
+        - {x: -379, y: 105}
+        - {x: -446, y: 105}
+        - {x: -448, y: 103}
+        - {x: -448, y: 36}
+        - {x: -512, y: 36}
+        - {x: -512, y: -583}
+        - {x: -446, y: -583}
+        - {x: -446, y: -648}
+        - {x: -444, y: -650}
+        - {x: -325, y: -650}
+        - {x: -325, y: -785}
+        - {x: -182, y: -785}
+        - {x: -182, y: -650}
+        - {x: 302, y: -650}
+    - name: malo2_animacion_1
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 1115
+        height: 1710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.21344, y: -785}
+        - {x: 312.21344, y: -785}
+        - {x: 312.21344, y: -650}
+        - {x: 444.21344, y: -650}
+        - {x: 446.21344, y: -648}
+        - {x: 446.21344, y: -583}
+        - {x: 497.21344, y: -583}
+        - {x: 499.21344, y: -582}
+        - {x: 500.21344, y: -583}
+        - {x: 508.21344, y: -582}
+        - {x: 511.21344, y: -581}
+        - {x: 513.21344, y: -578}
+        - {x: 513.21344, y: -25}
+        - {x: 509.21344, y: -22}
+        - {x: 446.21344, y: -22}
+        - {x: 446.21344, y: 39}
+        - {x: 444.21344, y: 41}
+        - {x: 309.21344, y: 41}
+        - {x: 309.21344, y: 715}
+        - {x: 306.21344, y: 718}
+        - {x: 302.21344, y: 719}
+        - {x: 301.21344, y: 720}
+        - {x: 242.21344, y: 720}
+        - {x: 242.21344, y: 785}
+        - {x: -309.78656, y: 785}
+        - {x: -309.78656, y: 772}
+        - {x: -310.78656, y: 771}
+        - {x: -310.78656, y: 751}
+        - {x: -309.78656, y: 750}
+        - {x: -309.78656, y: 735}
+        - {x: -310.78656, y: 734}
+        - {x: -310.78656, y: 724}
+        - {x: -311.78656, y: 723}
+        - {x: -311.78656, y: 719}
+        - {x: -444.78656, y: 719}
+        - {x: -446.78656, y: 717}
+        - {x: -446.78656, y: 650}
+        - {x: -443.78656, y: 646}
+        - {x: -378.78656, y: 646}
+        - {x: -378.78656, y: 41}
+        - {x: -446.78656, y: 41}
+        - {x: -448.78656, y: 39}
+        - {x: -448.78656, y: -29}
+        - {x: -508.78656, y: -29}
+        - {x: -508.78656, y: 32}
+        - {x: -510.78656, y: 34}
+        - {x: -511.78656, y: 34}
+        - {x: -511.78656, y: -583}
+        - {x: -446.78656, y: -583}
+        - {x: -446.78656, y: -648}
+        - {x: -444.78656, y: -650}
+        - {x: -444.78656, y: -785}
+        - {x: -300.78656, y: -785}
+        - {x: -300.78656, y: -650}
+        - {x: 168.21344, y: -650}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
