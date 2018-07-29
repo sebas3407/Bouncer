@@ -6,3 +6,20 @@ Bouncer is a 2D game with 8-bit theme, it is a simple runner where you must jump
 
 - Rating system
 - Music integrated in the game
+
+## Screenshots:
+
+- Menu
+![Screenshot](Screenshots/Menu.png)
+
+- Instructions
+![Screenshot](Screenshots/Instructions.png)
+
+- Scores
+![Screenshot](Screenshots/Scores.png)
+
+- Initials
+![Screenshot](Screenshots/Initials.png)
+
+- Pause
+![Screenshot](Screenshots/Pause.png)
