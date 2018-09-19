@@ -23,3 +23,9 @@ Bouncer is a 2D game with 8-bit theme, it is a simple runner where you must jump
 
 - Pause
 ![Screenshot](Screenshots/Pause.png)
+
+## Authors
+
+* **Sebastian Ortiz Velez** - *Developer* - [sebas3407](https://github.com/sebas3407)
+* **Victor Khalaf Valls** - *Artist* - [Victor](http://victorkhalaf.com)
+
