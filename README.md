@@ -1,13 +1,16 @@
-# BOUNCER:
+# Bouncer
+
+**Developed with Unity**
 
 Bouncer is a 2D game with 8-bit theme, it is a simple runner where you must jump the obstacles while you cross the city
 
-## Features:
+## Features
 
 - Rating system
 - Music integrated in the game
+- Play & Pause buttons
 
-## Screenshots:
+## Screenshots
 
 - Menu
 ![Screenshot](Screenshots/Menu.png)
@@ -24,8 +27,7 @@ Bouncer is a 2D game with 8-bit theme, it is a simple runner where you must jump
 - Pause
 ![Screenshot](Screenshots/Pause.png)
 
-## Authors
+### Credits
 
-* **Sebastian Ortiz Velez** - *Developer* - [sebas3407](https://github.com/sebas3407)
-* **Victor Khalaf Valls** - *Artist* - [Victor](http://victorkhalaf.com)
-
+- **Sebastian Ortiz Velez** - *Developer* http://sebastianortiz.tk
+- **Victor Khalaf Valls** - *Artist* http://victorkhalaf.com
